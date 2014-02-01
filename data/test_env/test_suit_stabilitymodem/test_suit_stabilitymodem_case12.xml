@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_stabilitymodem_case12"
+entry="test_case_main"
+enable="0"
+dependency=""
+relative_suits=""
+description="1-MT MMS Slot2 2-Browser Slot2 3-MO call Slot1"
+>
+</test_case>

@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//test_env/kpi/kpi_data.py=utf-8
+encoding//test_env/logging_wrapper.py=utf-8
+encoding//test_env/qrd_shared/browser/Browser.py=utf-8
+encoding//test_env/qrd_shared/enableDATA/EnableDATA.py=utf-8
+encoding//test_env/qrd_shared/mms/Mms.py=utf-8
+encoding//test_env/qrd_shared/settings/Settings.py=utf-8
+encoding//test_env/settings/common.py=utf-8
+encoding//test_env/test_suit_browser/test_suit_browser_case1.py=utf-8

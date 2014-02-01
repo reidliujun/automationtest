@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_stabilitymodem_case3"
+entry="test_case_main"
+enable="0"
+dependency=""
+relative_suits=""
+description="1-MO call 20 minutes slot1 2-wait 1 hr 3-MO call 20 minutes slot2 4-wait 1 hr"
+>
+</test_case>

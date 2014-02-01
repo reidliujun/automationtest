@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="andftp">AndFTP</string>
+    <string name="apps">Apps</string>
+    <string name="auto_test">QSST</string>
+    <string name="baidu_map">百度地图</string>
+    <string name="browser">Browser</string>
+    <string name="btn_ok">OK</string>
+    <string name="calendar">Calendar</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_wallpaper">Choose wallpaper from</string>
+    <string name="clock">Clock</string>
+    <string name="doubanfm">Douban FM</string>
+    <string name="downloads">Downloads</string>
+    <string name="email">Email</string>
+    <string name="fetion">Fetion</string>
+    <string name="gallery">Gallery</string>
+    <string name="gmail">Gmail</string>
+    <string name="manage_apps">Manage apps</string>
+    <string name="mms">Messaging</string>
+    <string name="mtservice">QRD MT Service</string>
+    <string name="no_response">isn't responding</string>
+    <string name="no_service">No service</string>
+    <string name="no_sim">No SIM card</string>
+    <string name="phone">Phone</string>
+    <string name="people">People</string>
+    <string name="play_store">Play Store</string>
+    <string name="power_off">Power off</string>
+    <string name="qualcomm_dlt">Qualcomm DLT</string>
+    <string name="renren">人人</string>
+    <string name="settings">Settings</string>
+    <string name="sim_deactivated">SIM deactivated</string>
+    <string name="system_settings">System settings</string>
+    <string name="Unfortunately">Unfortunately</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="weibo">Weibo</string>
+    <string name="widgets">Widgets</string>
+    <string name="youku">youku</string>
+    <string name="autoanswerapp">自动接听</string>
+</resources>

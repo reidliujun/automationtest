@@ -1,0 +1,1021 @@
+2013-07-22 17:20:40		framework TestLoader : suit_name:test_suit_settings
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_settings_case1
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_settings_case1
+
+2013-07-22 17:20:40		framework test_suit_settings : suit init...
+
+2013-07-22 17:20:40		framework test_suit_settings : suit end
+
+2013-07-22 17:20:40		framework test_main : Current report 0/1
+
+2013-07-22 17:20:40		framework TestLoader : loadTestSuit suit_name:test_suit_airplane
+
+2013-07-22 17:20:40		framework TestLoader : loadTestSuit suit_name:test_suit_browser
+
+2013-07-22 17:20:40		framework TestLoader : loadTestSuit suit_name:test_suit_cmcc
+
+2013-07-22 17:20:40		framework TestLoader : loadTestSuit suit_name:test_suit_combination
+
+2013-07-22 17:20:40		framework TestLoader : loadTestSuit suit_name:test_suit_csfb
+
+2013-07-22 17:20:40		framework TestLoader : loadTestSuit suit_name:test_suit_enableDATA
+
+2013-07-22 17:20:40		framework TestLoader : loadTestSuit suit_name:test_suit_ftp
+
+2013-07-22 17:20:40		framework TestLoader : loadTestSuit suit_name:test_suit_lte
+
+2013-07-22 17:20:40		framework TestLoader : suit_name:test_suit_lte
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case1
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case1
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case2
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case2
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case3
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case3
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case4
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case4
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case5
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case5
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case6
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case6
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case7
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case7
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case8
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case8
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case9
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case9
+
+2013-07-22 17:20:40		framework TestLoader : check case:test_suit_lte_case10
+
+2013-07-22 17:20:40		framework TestLoader : add case:test_suit_lte_case10
+
+2013-07-22 17:20:41		framework test_suit_lte_case10 : case added
+
+2013-07-22 17:20:41		framework test_suit_lte : suit added
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_mms
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_mtcall
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_mtmms
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_mtsms
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_phone
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_plmn
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_sms
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_ss
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_stabilitymodem
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_stability_ui
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_switchnetwork
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_x
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_y
+
+2013-07-22 17:20:41		framework TestLoader : loadTestSuit suit_name:test_suit_z
+
+2013-07-22 17:20:41		framework test_main : All test suites (1) :
+
+2013-07-22 17:20:41		framework test_main : Suite : test_suit_lte
+
+2013-07-22 17:20:41		framework test_suit_lte : suit init...
+
+2013-07-22 17:20:41		framework utility_wrapper : send: len=58&sp;action=44&sp;value=(1/1)test_suit_lte.test_suit_lte_case10
+
+2013-07-22 17:20:41		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:20:41		framework utility_wrapper : ok without result
+
+2013-07-22 17:20:41		framework utility_wrapper : suspend_flag = false, ---2  getprop
+
+2013-07-22 17:20:41		framework test_suit_lte_case10 : case init...
+
+2013-07-22 17:20:41		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-22 17:20:41		framework utility_wrapper : receive: 2 en
+
+2013-07-22 17:20:41		framework utility_wrapper : ok with result
+
+2013-07-22 17:20:41		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-22 17:20:46		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:20:46		framework utility_wrapper : ok with result
+
+2013-07-22 17:20:46		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-22 17:20:50		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:20:50		framework utility_wrapper : ok with result
+
+2013-07-22 17:20:50		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:20:50		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:20:50		framework utility_wrapper : ok with result
+
+2013-07-22 17:20:51		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-22 17:20:51		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:20:51		framework utility_wrapper : ok without result
+
+2013-07-22 17:20:51		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-22 17:20:52		framework utility_wrapper : receive: 2 en
+
+2013-07-22 17:20:52		framework utility_wrapper : ok with result
+
+2013-07-22 17:20:52		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-22 17:20:56		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:20:56		framework utility_wrapper : ok with result
+
+2013-07-22 17:20:56		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-22 17:21:00		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:21:00		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:00		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:21:01		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:21:01		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:02		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-22 17:21:02		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:21:02		framework utility_wrapper : ok without result
+
+2013-07-22 17:21:03		framework utility_wrapper : send: len=58&sp;action=10&sp;value=0&sp;value=0&sp;value=Cancel&sp;value=2
+
+2013-07-22 17:21:07		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:21:07		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:07		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=4&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:21:07		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:21:07		framework utility_wrapper : ok without result
+
+2013-07-22 17:21:08		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:21:09		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:21:09		framework utility_wrapper : ok without result
+
+2013-07-22 17:21:09		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:21:09		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:21:09		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:10		framework utility_wrapper : send: len=131&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Settings&sp;value=0&sp;value=1&sp;value=2&sp;value=1&sp;value=0
+
+2013-07-22 17:21:20		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:21:20		framework utility_wrapper : ok without result
+
+2013-07-22 17:21:20		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:21:21		framework utility_wrapper : receive: 2 com.android.settings.Settings
+
+2013-07-22 17:21:21		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:21		framework utility_wrapper : send: len=70&sp;action=12&sp;dest_view_type=8&sp;dest_view_id_type=2&sp;dest_view_id=0
+
+2013-07-22 17:21:21		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:21:21		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:21		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-22 17:21:21		framework utility_wrapper : receive: 2 en
+
+2013-07-22 17:21:21		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:21		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=More&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:21:21		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:21:21		framework utility_wrapper : ok without result
+
+2013-07-22 17:21:21		framework utility_wrapper : send: len=138&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Mobile networks&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:21:22		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:21:22		framework utility_wrapper : ok without result
+
+2013-07-22 17:21:22		framework utility_wrapper : send: len=70&sp;action=12&sp;dest_view_type=8&sp;dest_view_id_type=2&sp;dest_view_id=0
+
+2013-07-22 17:21:23		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:21:23		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:23		framework utility_wrapper : send: len=69&sp;action=1&sp;dest_view_type=4&sp;dest_view_id_type=2&sp;dest_view_id=0
+
+2013-07-22 17:21:23		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:21:23		framework utility_wrapper : ok without result
+
+2013-07-22 17:21:53		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-22 17:21:58		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:21:58		framework utility_wrapper : ok with result
+
+2013-07-22 17:21:58		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-22 17:22:02		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:22:02		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:02		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:22:02		framework utility_wrapper : receive: 2 com.android.phone.MobileNetworkSettings
+
+2013-07-22 17:22:02		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:03		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:22:04		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:04		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:04		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:22:04		framework utility_wrapper : receive: 2 com.android.settings.SubSettings
+
+2013-07-22 17:22:04		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:05		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:22:05		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:05		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:05		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:22:06		framework utility_wrapper : receive: 2 com.android.settings.Settings
+
+2013-07-22 17:22:06		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:07		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:22:07		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:07		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:07		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:22:07		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:22:07		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:08		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-22 17:22:08		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:08		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:09		framework utility_wrapper : send: len=58&sp;action=10&sp;value=0&sp;value=0&sp;value=Cancel&sp;value=2
+
+2013-07-22 17:22:14		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:22:14		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:14		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=4&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:22:14		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:14		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:15		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:22:15		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:15		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:15		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:22:16		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:22:16		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:17		framework utility_wrapper : send: len=130&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Browser&sp;value=0&sp;value=1&sp;value=2&sp;value=1&sp;value=0
+
+2013-07-22 17:22:17		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:17		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:17		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:22:18		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:22:18		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:18		framework utility_wrapper : send: len=126&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=0&sp;dest_view_id=url&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:22:18		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:18		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:18		framework utility_wrapper : send: len=31&sp;action=9&sp;value=67&sp;value=0
+
+2013-07-22 17:22:19		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:19		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:19		framework utility_wrapper : send: len=133&sp;action=3&sp;dest_view_type=2&sp;dest_view_id_type=0&sp;dest_view_id=url&sp;value=1&sp;value=1&sp;value=http://blog.sina.cn&sp;value=1
+
+2013-07-22 17:22:25		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:25		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:25		framework utility_wrapper : send: len=19&sp;action=8&sp;value=2
+
+2013-07-22 17:22:27		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:27		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:27		framework utility_wrapper : send: len=56&sp;action=14&sp;dest_view_id_type=0&sp;dest_view_id=favicon
+
+2013-07-22 17:22:27		framework utility_wrapper : receive: 2 true
+
+2013-07-22 17:22:27		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:27		framework case_utility : <function <lambda> at 0x02C4F4B0> expected True
+
+2013-07-22 17:22:27		framework utility_wrapper : send: len=130&sp;action=1&sp;dest_view_type=4&sp;dest_view_id_type=0&sp;dest_view_id=favicon&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:22:27		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:27		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:27		framework utility_wrapper : send: len=56&sp;action=10&sp;value=1&sp;value=1&sp;value=新浪博客&sp;value=2
+
+2013-07-22 17:22:36		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:22:36		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:36		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-22 17:22:36		framework utility_wrapper : receive: 2 en
+
+2013-07-22 17:22:36		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:36		framework utility_wrapper : send: len=73&sp;action=10&sp;value=1&sp;value=1&sp;value=Webpage not available&sp;value=2
+
+2013-07-22 17:22:45		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:22:45		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:46		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:22:47		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:47		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:47		framework utility_wrapper : send: len=130&sp;action=1&sp;dest_view_type=4&sp;dest_view_id_type=0&sp;dest_view_id=favicon&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:22:47		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:47		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:47		framework utility_wrapper : send: len=56&sp;action=10&sp;value=1&sp;value=1&sp;value=新浪博客&sp;value=2
+
+2013-07-22 17:22:48		framework utility_wrapper : receive: 2 true
+
+2013-07-22 17:22:48		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:48		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-22 17:22:52		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:22:52		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:52		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-22 17:22:56		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:22:56		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:56		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:22:56		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:22:56		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:57		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:22:58		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:58		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:58		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:22:58		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:22:58		framework utility_wrapper : ok with result
+
+2013-07-22 17:22:59		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:22:59		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:22:59		framework utility_wrapper : ok without result
+
+2013-07-22 17:22:59		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:00		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:23:00		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:01		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:23:01		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:01		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:01		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:01		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:23:01		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:02		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:23:03		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:03		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:03		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:03		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:23:03		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:04		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:23:04		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:04		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:04		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:05		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:23:05		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:06		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:23:07		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:07		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:07		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:07		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:23:07		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:08		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:23:08		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:08		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:08		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:09		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:23:09		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:10		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:23:11		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:11		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:11		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:11		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:23:11		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:12		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:23:12		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:12		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:12		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:12		framework utility_wrapper : receive: 2 com.android.browser.BrowserActivity
+
+2013-07-22 17:23:12		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:13		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:23:14		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:14		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:15		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-22 17:23:15		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:15		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:16		framework utility_wrapper : send: len=58&sp;action=10&sp;value=0&sp;value=0&sp;value=Cancel&sp;value=2
+
+2013-07-22 17:23:21		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:23:21		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:21		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=4&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:23:21		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:21		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:22		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:23:22		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:22		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:22		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:23		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:23:23		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:24		framework utility_wrapper : send: len=132&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Messaging&sp;value=0&sp;value=1&sp;value=2&sp;value=1&sp;value=0
+
+2013-07-22 17:23:24		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:24		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:24		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:23:25		framework utility_wrapper : receive: 2 com.android.mms.ui.ConversationList
+
+2013-07-22 17:23:25		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:25		framework utility_wrapper : send: len=69&sp;action=1&sp;dest_view_type=3&sp;dest_view_id_type=2&sp;dest_view_id=0
+
+2013-07-22 17:23:25		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:25		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:27		framework utility_wrapper : send: len=31&sp;action=9&sp;value=82&sp;value=0
+
+2013-07-22 17:23:28		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:28		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:28		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-22 17:23:29		framework utility_wrapper : receive: 2 en
+
+2013-07-22 17:23:29		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:29		framework utility_wrapper : send: len=70&sp;action=10&sp;value=1&sp;value=1&sp;value=Delete all threads&sp;value=2
+
+2013-07-22 17:23:29		framework utility_wrapper : receive: 2 true
+
+2013-07-22 17:23:29		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:29		framework case_utility : <function <lambda> at 0x02C4F4B0> expected True
+
+2013-07-22 17:23:29		framework utility_wrapper : send: len=141&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Delete all threads&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:23:29		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:29		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:29		framework utility_wrapper : send: len=69&sp;action=1&sp;dest_view_type=4&sp;dest_view_id_type=2&sp;dest_view_id=1
+
+2013-07-22 17:23:30		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:30		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:30		framework utility_wrapper : send: len=68&sp;action=10&sp;value=1&sp;value=1&sp;value=No conversations&sp;value=2
+
+2013-07-22 17:23:31		framework utility_wrapper : receive: 2 true
+
+2013-07-22 17:23:31		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:31		framework case_utility : <function <lambda> at 0x02C4F4B0> expected True
+
+2013-07-22 17:23:31		framework utility_wrapper : send: len=141&sp;action=1&sp;dest_view_type=3&sp;dest_view_id_type=0&sp;dest_view_id=action_compose_new&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:23:31		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:31		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:32		framework utility_wrapper : send: len=129&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=4&sp;dest_view_id=Attach&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:23:34		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:34		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:34		framework utility_wrapper : send: len=138&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Capture picture&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:23:35		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:35		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:35		framework utility_wrapper : send: len=59&sp;action=14&sp;dest_view_id_type=0&sp;dest_view_id=alertTitle
+
+2013-07-22 17:23:38		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:23:38		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:38		framework utility_wrapper : send: len=56&sp;action=14&sp;dest_view_id_type=0&sp;dest_view_id=message
+
+2013-07-22 17:23:38		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:23:38		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:38		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-22 17:23:38		framework utility_wrapper : receive: 2 en
+
+2013-07-22 17:23:38		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:38		framework utility_wrapper : send: len=73&sp;action=10&sp;value=1&sp;value=1&sp;value=Complete action using&sp;value=2
+
+2013-07-22 17:23:46		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:23:46		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:48		framework utility_wrapper : send: len=137&sp;action=1&sp;dest_view_type=4&sp;dest_view_id_type=0&sp;dest_view_id=shutter_button&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:23:48		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:48		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:48		framework utility_wrapper : send: len=57&sp;action=14&sp;dest_view_id_type=0&sp;dest_view_id=btn_done
+
+2013-07-22 17:23:50		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:23:50		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:51		framework utility_wrapper : send: len=57&sp;action=14&sp;dest_view_id_type=0&sp;dest_view_id=btn_done
+
+2013-07-22 17:23:51		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:23:51		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:52		framework utility_wrapper : send: len=57&sp;action=14&sp;dest_view_id_type=0&sp;dest_view_id=btn_done
+
+2013-07-22 17:23:52		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:23:52		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:53		framework utility_wrapper : send: len=57&sp;action=14&sp;dest_view_id_type=0&sp;dest_view_id=btn_done
+
+2013-07-22 17:23:53		framework utility_wrapper : receive: 2 true
+
+2013-07-22 17:23:53		framework utility_wrapper : ok with result
+
+2013-07-22 17:23:53		framework case_utility : <function <lambda> at 0x02C4F4B0> expected True
+
+2013-07-22 17:23:53		framework utility_wrapper : send: len=131&sp;action=1&sp;dest_view_type=4&sp;dest_view_id_type=0&sp;dest_view_id=btn_done&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:23:54		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:23:54		framework utility_wrapper : ok without result
+
+2013-07-22 17:23:54		framework utility_wrapper : send: len=127&sp;action=3&sp;dest_view_type=2&sp;dest_view_id_type=2&sp;dest_view_id=1&sp;value=1&sp;value=1&sp;value=ludf134@#$%_343&sp;value=1
+
+2013-07-22 17:24:00		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:00		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:00		framework utility_wrapper : send: len=138&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=0&sp;dest_view_id=send_button_mms&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:24:01		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:01		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:01		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-22 17:24:07		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:24:07		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:07		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-22 17:24:12		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:24:12		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:12		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:24:12		framework utility_wrapper : receive: 2 com.android.mms.ui.ComposeMessageActivity
+
+2013-07-22 17:24:12		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:13		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:24:13		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:13		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:13		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:24:14		framework utility_wrapper : receive: 2 com.android.mms.ui.ComposeMessageActivity
+
+2013-07-22 17:24:14		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:15		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:24:15		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:16		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:16		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:24:16		framework utility_wrapper : receive: 2 com.android.mms.ui.ConversationList
+
+2013-07-22 17:24:16		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:17		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:24:17		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:17		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:17		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:24:18		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:24:18		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:19		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-22 17:24:19		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:19		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:20		framework utility_wrapper : send: len=58&sp;action=10&sp;value=0&sp;value=0&sp;value=Cancel&sp;value=2
+
+2013-07-22 17:24:24		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:24:24		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:24		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=4&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:24:24		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:24		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:25		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:24:26		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:26		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:26		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:24:27		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:24:27		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:28		framework utility_wrapper : send: len=137&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=QRD MT Service&sp;value=0&sp;value=1&sp;value=2&sp;value=1&sp;value=0
+
+2013-07-22 17:24:37		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:37		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:37		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:24:37		framework utility_wrapper : receive: 2 com.qrd.qrdmtservice.MainActivity
+
+2013-07-22 17:24:37		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:37		framework utility_wrapper : send: len=133&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=MT SMS/MMS&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:24:38		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:38		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:38		framework utility_wrapper : send: len=69&sp;action=1&sp;dest_view_type=4&sp;dest_view_id_type=2&sp;dest_view_id=1
+
+2013-07-22 17:24:39		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:39		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:39		framework utility_wrapper : send: len=126&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Add&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:24:39		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:39		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:39		framework utility_wrapper : send: len=123&sp;action=3&sp;dest_view_type=2&sp;dest_view_id_type=2&sp;dest_view_id=0&sp;value=1&sp;value=1&sp;value=15900564675&sp;value=1
+
+2013-07-22 17:24:44		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:44		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:44		framework utility_wrapper : send: len=125&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Ok&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:24:44		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:44		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:44		framework utility_wrapper : send: len=127&sp;action=3&sp;dest_view_type=2&sp;dest_view_id_type=2&sp;dest_view_id=1&sp;value=1&sp;value=1&sp;value=ludf134@#$%_343&sp;value=1
+
+2013-07-22 17:24:48		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:48		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:48		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:24:48		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:48		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:48		framework utility_wrapper : send: len=70&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=2&sp;dest_view_id=14
+
+2013-07-22 17:24:49		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:49		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:49		framework utility_wrapper : send: len=140&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=MMSDEMO_PlainText&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:24:50		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:24:50		framework utility_wrapper : ok without result
+
+2013-07-22 17:24:50		framework utility_wrapper : parameter invalid
+
+2013-07-22 17:24:50		framework Test : Exceptionobject of type 'int' has no len()
+
+2013-07-22 17:24:50		framework logging_wrapper : save log : adb logcat logcat -d  -v time > C:\Users\juliu\Desktop\QSST_allversion\135-autotest_v2.8\data\test_env\com.android.qrdtest\2013-07-22-17_20_36\test_suit_lte\test_suit_lte_case10\2013-07-22-17_24_50.logcat
+
+2013-07-22 17:24:50		repost Total:0/1
+
+2013-07-22 17:24:50		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-22 17:24:54		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:24:54		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:54		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-22 17:24:59		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:24:59		framework utility_wrapper : ok with result
+
+2013-07-22 17:24:59		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:24:59		framework utility_wrapper : receive: 2 com.qrd.qrdmtservice.MTSMS
+
+2013-07-22 17:24:59		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:00		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:25:01		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:25:01		framework utility_wrapper : ok without result
+
+2013-07-22 17:25:01		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:25:01		framework utility_wrapper : receive: 2 com.qrd.qrdmtservice.MainActivity
+
+2013-07-22 17:25:01		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:02		framework utility_wrapper : send: len=8&sp;action=2
+
+2013-07-22 17:25:02		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:25:02		framework utility_wrapper : ok without result
+
+2013-07-22 17:25:02		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:25:02		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:25:02		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:03		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-22 17:25:03		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:25:03		framework utility_wrapper : ok without result
+
+2013-07-22 17:25:03		framework test_suit_lte_case10 : case end
+
+2013-07-22 17:25:03		repost Total:0/0
+
+2013-07-22 17:25:03		framework test_suit_lte : suit end
+
+2013-07-22 17:25:03		framework test_main : 
+ all suit finished.
+
+2013-07-22 17:25:03		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-22 17:25:04		framework utility_wrapper : receive: 2 en
+
+2013-07-22 17:25:04		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:04		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-22 17:25:09		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:25:09		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:09		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-22 17:25:13		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:25:13		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:13		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:25:13		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:25:13		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:14		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-22 17:25:14		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:25:14		framework utility_wrapper : ok without result
+
+2013-07-22 17:25:15		framework utility_wrapper : send: len=58&sp;action=10&sp;value=0&sp;value=0&sp;value=Cancel&sp;value=2
+
+2013-07-22 17:25:19		framework utility_wrapper : receive: 2 false
+
+2013-07-22 17:25:19		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:19		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=4&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:25:19		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:25:19		framework utility_wrapper : ok without result
+
+2013-07-22 17:25:20		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-22 17:25:21		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:25:21		framework utility_wrapper : ok without result
+
+2013-07-22 17:25:21		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:25:21		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-22 17:25:21		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:22		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=QSST&sp;value=0&sp;value=1&sp;value=2&sp;value=1&sp;value=0
+
+2013-07-22 17:25:24		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:25:24		framework utility_wrapper : ok without result
+
+2013-07-22 17:25:24		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-22 17:25:24		framework utility_wrapper : receive: 2 com.android.qrdtest.MainActivity
+
+2013-07-22 17:25:24		framework utility_wrapper : ok with result
+
+2013-07-22 17:25:24		framework utility_wrapper : end test runner
+
+2013-07-22 17:25:24		framework utility_wrapper : send: len=8&sp;action=0
+
+2013-07-22 17:25:24		framework utility_wrapper : receive: 1 
+
+2013-07-22 17:25:24		framework utility_wrapper : ok without result
+

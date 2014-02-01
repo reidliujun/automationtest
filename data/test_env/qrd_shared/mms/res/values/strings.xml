@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attach">Attach</string>
+    <string name="capture_picture">Capture picture</string>
+    <string name="delete_all_threads">Delete all threads</string>
+    <string name="message_size">Message size</string>
+    <string name="mms">MMS</string>
+    <string name="no_conversations">No conversations</string>
+    <string name="received">Received</string>
+    <string name="sent">Sent</string>
+    <string name="type_message">Type message</string>
+    <string name="camera">Camera</string>
+    <string name="adding_attachments">Adding attachments</string>
+    <string name="remember_photo_location">Remember photo locations</string>
+</resources>

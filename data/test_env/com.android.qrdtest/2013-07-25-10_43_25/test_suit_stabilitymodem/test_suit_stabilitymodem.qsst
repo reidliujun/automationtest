@@ -1,0 +1,4 @@
+SUIT:test_suit_stabilitymodem
+STARTTIME:2013-07-25 10:43:31
+CASE:test_suit_stabilitymodem:test_suit_stabilitymodem_case1
+DESCRIPTION:1-MO call 20 minutes 2-end call 3-wait 1 hr

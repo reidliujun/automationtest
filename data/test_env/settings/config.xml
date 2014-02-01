@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <public name="random_order" description="Random order" type="boolean">false</public>
+    <public name="dsds" description="DSDS mode" type="boolean">false</public>
+    <public name="running_repeat_number" description="Running repeat number" type="number">1</public>
+    <public name="case_repeat_number" description="Case repeat number" type="number">3</public>
+    <public name="slot1_number" description="MO number of slot1" type="number">10010</public>
+    <public name="slot2_number" description="MO number of slot2" type="number">10086</public>
+    <public name="local_slot1_number" description="MT number of slot1" type="number">15900564675</public>
+    <public name="local_slot2_number" description="MT number of slot2" type="number">15900564675</public>
+    <public name="message_contents" description="message contents" type="string">ludf134@#$%_343</public>
+    <public name="phone_platform_type" description="phone platform type" type="string">automatch</public>
+    <!-- the values can be : disable,case_fail,case_end-->
+    <public name="auto_logging_env_context" description="auto logging env context type" type="simple-select" enum_list="disable,case_fail,case_end">disable</public>
+    <!-- the values can be : postion-mobile,speed-mobile,temperate-battery-celsius,temperate-battery-fahrenheit,orientation-mobile,ram-available,rom-available,rssi-wifi-->
+    <public name="env_context_items_for_auto_logging" description="items of auto logging env context" type="multi-select" enum_list="postion-mobile,speed-mobile,temperate-battery-celsius,temperate-battery-fahrenheit,orientation-mobile,ram-available,rom-available,rssi-wifi">rssi-wifi,rom-available</public>
+    <public name="log_path" description="Log path" type="file_path">/sdcard/com.android.qrdtest</public>
+    <public name="wifi_name" description="wifi name" type="string">QGuest</public>
+    <public name="wifi_password_sequence" description="wifi password sequence" type="sequence" relative_item="wifi_password">k,num_sign,5,num_sign,x,num_sign,4,8,num_sign,caps,v,caps,z,num_sign,3</public>
+    <private name="phone">
+        <item name="repeat_number" description="repeat number" type="number">2</item>
+        <item name="call_duration" description="duration" type="number">5</item>
+        <item name="interval" description="interval" type="number">10</item>
+    </private>
+    <private name="sms">
+        <item name="repeat_number" description="repeat number" type="number">4</item>
+        <item name="interval" description="interval" type="number">30</item>
+    </private>
+    <private name="mtmms">
+        <item name="mtmms_attachment" description="mms attachments" type="string">MMSDEMO_PlainText</item>
+        <item name="mtmms_interval" description="interval" type="number">60</item>
+        <item name="mtmms_repeat_times" description="mms repeat times" type="number">2</item>
+    </private>
+    <private name="airplanemode">
+        <item name="time_after_mode_on" description="wait time after Airplanemode on" type="number">30</item>
+        <item name="time_after_mode_off" description="wait time after Airplanemode off" type="number">60</item>
+        <item name="repeat_number" description="repeat number" type="number">2</item>
+    </private>
+    <private name="plmn">
+        <item name="time_after_search" description="wait time after search" type="number">150</item>
+        <item name="repeat_number" description="repeat number" type="number">4</item>
+    </private>
+    <private name="switchnetwork">
+        <item name="repeat_number" description="repeat number" type="number">4</item>
+        <item name="time_after_switch" description="wait time after switch" type="number">10</item>
+    </private>
+    <private name="browser">
+        <item name="wait_time" description="wait time" type="number">30</item>
+        <item name="address_url" description="url address" type="string">http://blog.sina.cn</item>
+        <item name="web_title_1" description="web title 1" type="string">新浪博客</item>
+        <item name="web_title_2" description="web title 2" type="string">手机新浪网</item>
+        <item name="repeat_number" description="repeat number" type="number">4</item>
+    </private>
+    <private name="mtcall">
+        <item name="repeat_times" description="repeat times" type="string">2</item>
+        <item name="duration" description="duration" type="string">10</item>
+        <item name="wait_time" description="wait time" type="string">10</item>
+        <item name="interval" description="interval" type="string">30</item>
+    </private>
+    <private name="ftp">
+        <item name="ftp_address" description="ftp address" type="string">59.61.88.196</item>
+        <item name="ftp_port" description="port" type="number">21</item>
+        <item name="ftp_username" description="username" type="string">wuhao</item>
+        <item name="ftp_password" description="password" type="string">wuhao</item>
+        <item name="ftp_server_dlpath" description="server dlpath" type="string">/temp/DLUL/DL</item>
+        <item name="ftp_server_ulpath" description="server ulpath" type="string">/temp/DLUL/UL</item>
+        <item name="ftp_upload_file" description="upload file" type="string">100KB.bin</item>
+        <item name="ftp_upload_expiretime" description="upload expire time" type="number">50</item>
+        <item name="ftp_download_file" description="download file" type="string">100KB.bin</item>
+        <item name="ftp_download_expiretime" description="download expire time" type="number">50</item>
+        <item name="ftp_repeat_times" description="repeat times" type="number">1</item>
+        <item name="ftp_interval" description="interval" type="number">15</item>
+    </private>
+    <private name="lte">
+        <item name="longcall_time" description="longcall time" type="number">600</item>
+    </private>
+    <private name="dds">
+        <item name="repeat_number" description="repeat number" type="number">1</item>
+        <item name="wait_time" description="wait time" type="number">20</item>
+    </private>
+</config>

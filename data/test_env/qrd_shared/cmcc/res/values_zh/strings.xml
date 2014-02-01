@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="access point names">接入点名称(APN)</string>
+    <string name="appsearch">AppSearch_Android</string>
+    <string name="blogs">新浪博客</string>
+    <string name="cancel">取消</string>
+    <string name="cmwap">CMCC</string>
+    <string name="cmnet">China Mobile</string>
+    <string name="delete">删除</string>
+    <string name="download">下载</string>
+    <string name="exit">退出</string>
+    <string name="file_exist">File Exist</string>
+    <string name="inprogress">正在下载</string>
+    <string name="kevin">Kevin</string>
+    <string name="military">新浪军事</string>
+    <string name="mobile networks">移动网络</string>
+    <string name="more">更多</string>
+    <string name="news">手机新浪网-新闻中心</string>
+    <string name="login">帐号</string>
+    <string name="lottery ticket">新浪彩票</string>
+    <string name="ok">确定</string>
+    <string name="pause">暂停下载吗</string>
+    <string name="qrdtest">QRDtest</string>
+    <string name="read">新浪读书</string>
+    <string name="sina">手机新浪网</string>
+    <string name="sports">新浪体育</string>
+    <string name="stock">股票</string>
+    <string name="resume">恢复下载吗</string>
+    <string name="technology">新浪科技</string>
+    <string name="unsuccessful">失败</string>
+    <string name="video">新浪视频</string>
+    <string name="wangluoweilianjie">网络未连接</string>
+</resources>

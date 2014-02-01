@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_title_dialing">正在拨号</string>
+    <string name="call_log_is_empty">通话记录为空</string>
+    <string name="clear_call_log">清除通话记录</string>
+    <string name="dialog_cancel_button">取消</string>
+    <string name="incoming">来电</string>
+    <string name="network_not_available">无法访问移动网络</string>
+    <string name="ok">确定</string>
+    <string name="return">返回正在进行的通话</string>
+    <string name="settings">设置</string> 
+    <string name="call_settings">通话设置</string>
+    <string name="additional_settings">其他设置</string>
+    <string name="select_subscription">Select Subscription</string>
+    <string name="additional_settings">Additional settings</string>
+    <string name="subscription1">Subscription 1</string>
+    <string name="subscription2">Subscription 2</string>
+    <string name="GSM_call_settings">GSM 通话设置</string>
+    <string name="clear_call_log">清除通话记录</string>
+    <string name="no_conversations">通话记录为空</string>
+    <string name="call_forwarding">来电转接</string>
+    <string name="additional_setting">其他设置</string>
+    <string name="dtmf_tones">DTMF 音</string>
+    <string name="call_waiting">来电等待</string>
+    <string name="always_forward">始终转接</string>
+    <string name="forward_when_busy">占线时转接</string>
+    <string name="forward_when_unanswered">无人接听时转接</string>
+    <string name="forward_when_unreachable">无法接通时转接/string>
+    <string name="forward_all_calls_status">将所有来电转接到</string>
+    <string name="forward_other_status">转接到</string>
+    <string name="return_to_call">返回正在进行的通话</string>
+</resources>

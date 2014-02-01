@@ -1,0 +1,6 @@
+SUIT:test_suit_csfb
+STARTTIME:2013-07-29 10:07:54
+SEVERITY:HIGH
+STATUS:FAILED:'NoneType' object has no attribute 'send_msg_line'
+ENDTIME:2013-07-29 10:07:54
+RESULT:0:-1:1:0

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_cmcc_case4"
+entry="test_case_main"
+enable="0"
+dependency=""
+relative_suits="test_suit_sms"
+description="1-browser 2-MMS 3-browser"
+>
+</test_case>

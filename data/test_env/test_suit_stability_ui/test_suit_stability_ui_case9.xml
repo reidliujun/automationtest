@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_stability_ui_case9"
+entry="test_case_main"
+enable="0"
+dependency=""
+relative_suits=""
+description="long press power key and check display"
+>
+</test_case>

@@ -1,0 +1,6 @@
+SUIT:test_suit_lte
+STARTTIME:2013-07-23 11:20:25
+CASE:test_suit_lte:test_suit_lte_case11
+DESCRIPTION:1-Open a Web Page 2-MO MMS 3-MT MMS 4-Open new pages
+MSG:1ping stop:	11:20:50
+MSG:0/1

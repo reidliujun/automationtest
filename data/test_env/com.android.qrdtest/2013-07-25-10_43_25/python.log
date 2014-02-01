@@ -1,0 +1,212 @@
+2013-07-25 10:43:30		framework TestLoader : suit_name:test_suit_settings
+
+2013-07-25 10:43:30		framework TestLoader : check case:test_suit_settings_case1
+
+2013-07-25 10:43:30		framework TestLoader : add case:test_suit_settings_case1
+
+2013-07-25 10:43:30		framework test_suit_settings : suit init...
+
+2013-07-25 10:43:30		framework test_suit_settings : suit end
+
+2013-07-25 10:43:30		framework test_main : Current report 0/1
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_airplane
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_browser
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_cmcc
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_combination
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_csfb
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_enableDATA
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_ftp
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_lte
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_mms
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_mtcall
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_mtmms
+
+2013-07-25 10:43:30		framework TestLoader : loadTestSuit suit_name:test_suit_mtsms
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_phone
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_plmn
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_sms
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_ss
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_stabilitymodem
+
+2013-07-25 10:43:31		framework TestLoader : suit_name:test_suit_stabilitymodem
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case1
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case1
+
+2013-07-25 10:43:31		framework test_suit_stabilitymodem_case1 : case added
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case2
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case2
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case3
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case3
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case4
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case4
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case5
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case5
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case6
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case6
+
+2013-07-25 10:43:31		framework test_suit_stabilitymodem_case6 : case added
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case7
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case7
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case9
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case9
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case13
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case13
+
+2013-07-25 10:43:31		framework test_suit_stabilitymodem_case13 : case added
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case14
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case14
+
+2013-07-25 10:43:31		framework TestLoader : check case:test_suit_stabilitymodem_case15
+
+2013-07-25 10:43:31		framework TestLoader : add case:test_suit_stabilitymodem_case15
+
+2013-07-25 10:43:31		framework test_suit_stabilitymodem : suit added
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_stability_ui
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_switchnetwork
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_x
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_y
+
+2013-07-25 10:43:31		framework TestLoader : loadTestSuit suit_name:test_suit_z
+
+2013-07-25 10:43:31		framework test_main : All test suites (1) :
+
+2013-07-25 10:43:31		framework test_main : Suite : test_suit_stabilitymodem
+
+2013-07-25 10:43:31		framework test_suit_stabilitymodem : suit init...
+
+2013-07-25 10:43:31		framework utility_wrapper : send: len=79&sp;action=44&sp;value=(1/1)test_suit_stabilitymodem.test_suit_stabilitymodem_case1
+
+2013-07-25 10:43:31		framework utility_wrapper : receive: 1 
+
+2013-07-25 10:43:31		framework utility_wrapper : ok without result
+
+2013-07-25 10:43:31		framework utility_wrapper : suspend_flag = false, ---2  getprop
+
+2013-07-25 10:43:31		framework test_suit_stabilitymodem_case1 : case init...
+
+2013-07-25 10:43:31		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-25 10:43:32		framework utility_wrapper : receive: 2 en
+
+2013-07-25 10:43:32		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:32		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-25 10:43:37		framework utility_wrapper : receive: 2 false
+
+2013-07-25 10:43:37		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:37		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-25 10:43:41		framework utility_wrapper : receive: 2 false
+
+2013-07-25 10:43:41		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:41		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-25 10:43:41		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-25 10:43:41		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:42		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-25 10:43:42		framework utility_wrapper : receive: 1 
+
+2013-07-25 10:43:42		framework utility_wrapper : ok without result
+
+2013-07-25 10:43:42		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-25 10:43:43		framework utility_wrapper : receive: 2 en
+
+2013-07-25 10:43:43		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:43		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-25 10:43:48		framework utility_wrapper : receive: 2 false
+
+2013-07-25 10:43:48		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:48		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-25 10:43:52		framework utility_wrapper : receive: 2 false
+
+2013-07-25 10:43:52		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:52		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-25 10:43:52		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-25 10:43:52		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:53		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-25 10:43:53		framework utility_wrapper : receive: 1 
+
+2013-07-25 10:43:53		framework utility_wrapper : ok without result
+
+2013-07-25 10:43:54		framework utility_wrapper : send: len=58&sp;action=10&sp;value=0&sp;value=0&sp;value=Cancel&sp;value=2
+
+2013-07-25 10:43:59		framework utility_wrapper : receive: 2 false
+
+2013-07-25 10:43:59		framework utility_wrapper : ok with result
+
+2013-07-25 10:43:59		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=4&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-25 10:43:59		framework utility_wrapper : receive: 1 
+
+2013-07-25 10:43:59		framework utility_wrapper : ok without result
+
+2013-07-25 10:44:00		framework utility_wrapper : send: len=127&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Apps&sp;value=1&sp;value=1&sp;value=2&sp;value=0&sp;value=0
+
+2013-07-25 10:44:01		framework utility_wrapper : receive: 1 
+
+2013-07-25 10:44:01		framework utility_wrapper : ok without result
+
+2013-07-25 10:44:01		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-25 10:44:01		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-25 10:44:01		framework utility_wrapper : ok with result
+
+2013-07-25 10:44:02		framework utility_wrapper : send: len=128&sp;action=1&sp;dest_view_type=1&sp;dest_view_id_type=1&sp;dest_view_id=Phone&sp;value=0&sp;value=1&sp;value=2&sp;value=1&sp;value=0
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_csfb_case2"
+entry="test_case_main"
+enable="1"
+dependency=""
+relative_suits="test_suit_contactsphone"
+description="1-MO call 2-MMS 3-end call"
+>
+</test_case>

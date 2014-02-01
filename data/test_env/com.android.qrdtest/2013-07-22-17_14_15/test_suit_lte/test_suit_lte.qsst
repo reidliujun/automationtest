@@ -1,0 +1,8 @@
+SUIT:test_suit_lte
+STARTTIME:2013-07-22 17:14:20
+CASE:test_suit_lte:test_suit_lte_case10
+DESCRIPTION:1-Open a Web Page 2-MO MMS 3-MT MMS 4-Open new pages
+MSG:1	exception	17:18:19
+MSG:0/1
+ENDTIME:2013-07-22 17:18:33
+RESULT:1:1:0:0

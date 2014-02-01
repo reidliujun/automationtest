@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_title_dialing">Dialing</string>
+    <string name="clear_call_log">Clear call log</string>
+    <string name="call_log_is_empty">Call log is empty</string>
+    <string name="dialog_cancel_button">Cancel</string>
+    <string name="incoming">INCOMING</string>
+    <string name="network_not_available">Mobile network not available</string>
+    <string name="ok">Ok</string>
+    <string name="return">Return to call</string>
+    <string name="settings">Settings</string>
+    <string name="call_settings">Call settings</string>
+    <string name="additional_settings">Additional settings</string>
+    <string name="select_subscription">Select Subscription</string>
+    <string name="additional_settings">Additional settings</string>
+    <string name="subscription1">Subscription 1</string>
+    <string name="subscription2">Subscription 2</string>
+    <string name="GSM_call_settings">GSM call settings</string>
+    <string name="clear_call_log">clear call log</string>
+    <string name="no_conversations">Call log is empty</string>
+    <string name="call_forwarding">call forwarding</string>
+    <string name="dtmf_tones">DTMF tones</string>
+    <string name="call_waiting">Call waiting</string>
+    <string name="always_forward">Always forward</string>
+    <string name="forward_when_busy">Forward when busy</string>
+    <string name="forward_when_unanswered">Forward when unanswered</string>
+    <string name="forward_when_unreachable">Forward when unreachable</string>
+    <string name="Enable">Enable</string>
+    <string name="Disable">Disable</string>
+    <string name="forward_all_calls_status">Forwarding all calls</string>
+    <string name="forward_other_status">Forwarding to</string>
+    <string name="return_to_call">Return to call in progress</string>
+    <string name="sim1">SIM1</string>
+    <string name="sim2">SIM2</string>
+</resources>

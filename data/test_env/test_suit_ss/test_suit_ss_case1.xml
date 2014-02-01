@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_ss_case1"
+entry="test_case_main"
+enable="0"
+dependency=""
+relative_suits=""
+reference=""
+description="call waiting SLOT1"
+>
+</test_case>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_and_ime">Language</string>
+    <string name="google_pinyin">Google Pinyin</string>
+    <string name="google_pinyin_settings">Google Pinyin settings</string>
+    <string name="default">Default</string>
+    <string name="auto_capitalization">Auto capitalization</string>
+    <string name="Find_on_page">Find on page</string>
+</resources>

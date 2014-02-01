@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_lte_case13"
+entry="test_case_main"
+enable="0"
+dependency=""
+relative_suits=""
+description="1-Ping 2-MT CALL"
+>
+</test_case>

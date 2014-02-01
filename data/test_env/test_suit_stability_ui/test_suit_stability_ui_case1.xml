@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_stability_ui_case1"
+entry="test_case_main"
+enable="0"
+dependency=""
+relative_suits=""
+description="add a new contact to SIM"
+>
+</test_case>

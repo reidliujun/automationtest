@@ -1,0 +1,17 @@
+SUIT:test_suit_csfb
+STARTTIME:2013-07-22 10:45:38
+CASE:test_suit_csfb:test_suit_csfb_case4
+DESCRIPTION:1-MO SMS 2-MO call 3-end call
+MSG:1	fail	10:46:20
+MSG:2	fail	10:46:46
+MSG:3	fail	10:47:25
+MSG:4	fail	10:47:58
+MSG:5	fail	10:48:31
+MSG:6	fail	10:48:58
+MSG:7	fail	10:49:31
+MSG:8	fail	10:50:05
+MSG:9	fail	10:50:39
+MSG:10	fail	10:51:06
+MSG:0/10
+ENDTIME:2013-07-22 10:51:20
+RESULT:1:1:0:0

@@ -1,0 +1,9 @@
+SUIT:test_suit_lte
+STARTTIME:2013-07-24 14:38:51
+CASE:test_suit_lte:test_suit_lte_case12
+DESCRIPTION:1-Ping 2-MO CALL
+MSG:2	fail	14:41:26
+MSG:3	fail	14:42:14
+MSG:1/3
+ENDTIME:2013-07-24 14:42:26
+RESULT:1:1:0:0

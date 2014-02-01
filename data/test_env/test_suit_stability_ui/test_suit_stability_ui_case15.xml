@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_case name="test_suit_stability_ui_case15"
+entry="test_case_main"
+enable="0"
+dependency=""
+relative_suits=""
+description="1-MO call 2-airplane mode 3-check call"
+>
+</test_case>

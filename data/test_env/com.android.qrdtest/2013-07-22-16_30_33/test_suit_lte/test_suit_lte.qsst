@@ -1,0 +1,6 @@
+SUIT:test_suit_lte
+STARTTIME:2013-07-22 16:30:38
+CASE:test_suit_lte:test_suit_lte_case10
+DESCRIPTION:1-Open a Web Page 2-MO MMS 3-MT MMS 4-Open new pages
+SEVERITY:HIGH
+STATUS:FAILED:'NoneType' object has no attribute '__getitem__'

@@ -1,0 +1,6 @@
+export PYTHONHOME=/data/python_env/com.googlecode.pythonforandroid/files/python
+export PYTHONPATH=/data/python_env/extras/python:/data/python_env/com.googlecode.pythonforandroid/files/python/lib/python2.6/lib-dynload:/data/python_env/com.googlecode.pythonforandroid/files/python/lib/python2.6
+export TEMP=/data/python_env/extras/python/tmp
+export PYTHON_EGG_CACHE=/data/python_env/extras/python/tmp
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/data/python_env/com.googlecode.pythonforandroid/files/python/lib:/data/python_env/com.googlecode.pythonforandroid/files/python/lib/python2.6/lib-dynload:/data/python_env/extras/python
+/data/python_env/com.googlecode.pythonforandroid/files/python/bin/python "$@"

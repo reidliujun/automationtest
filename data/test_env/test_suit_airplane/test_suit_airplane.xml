@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test_suit name="test_suit_airplane"
+entry="test_suit_main"
+enable="0"
+runner="accessibility"
+app_name=""
+>
+</test_suit>

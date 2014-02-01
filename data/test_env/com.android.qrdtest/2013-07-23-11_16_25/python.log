@@ -1,0 +1,190 @@
+2013-07-23 11:16:30		framework TestLoader : suit_name:test_suit_settings
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_settings_case1
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_settings_case1
+
+2013-07-23 11:16:30		framework test_suit_settings : suit init...
+
+2013-07-23 11:16:30		framework test_suit_settings : suit end
+
+2013-07-23 11:16:30		framework test_main : Current report 0/1
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_airplane
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_browser
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_cmcc
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_combination
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_csfb
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_enableDATA
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_ftp
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_lte
+
+2013-07-23 11:16:30		framework TestLoader : suit_name:test_suit_lte
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case1
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case1
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case2
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case2
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case3
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case3
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case4
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case4
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case5
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case5
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case6
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case6
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case7
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case7
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case8
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case8
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case9
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case9
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case10
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case10
+
+2013-07-23 11:16:30		framework TestLoader : check case:test_suit_lte_case11
+
+2013-07-23 11:16:30		framework TestLoader : add case:test_suit_lte_case11
+
+2013-07-23 11:16:30		framework test_suit_lte_case11 : case added
+
+2013-07-23 11:16:30		framework test_suit_lte : suit added
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_mms
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_mtcall
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_mtmms
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_mtsms
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_phone
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_plmn
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_sms
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_ss
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_stabilitymodem
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_stability_ui
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_switchnetwork
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_x
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_y
+
+2013-07-23 11:16:30		framework TestLoader : loadTestSuit suit_name:test_suit_z
+
+2013-07-23 11:16:30		framework test_main : All test suites (1) :
+
+2013-07-23 11:16:30		framework test_main : Suite : test_suit_lte
+
+2013-07-23 11:16:30		framework test_suit_lte : suit init...
+
+2013-07-23 11:16:31		framework utility_wrapper : send: len=58&sp;action=44&sp;value=(1/1)test_suit_lte.test_suit_lte_case11
+
+2013-07-23 11:16:31		framework utility_wrapper : receive: 1 
+
+2013-07-23 11:16:31		framework utility_wrapper : ok without result
+
+2013-07-23 11:16:31		framework utility_wrapper : suspend_flag = false, ---2  getprop
+
+2013-07-23 11:16:31		framework test_suit_lte_case11 : case init...
+
+2013-07-23 11:16:31		framework utility_wrapper : send: len=9&sp;action=16
+
+2013-07-23 11:16:31		framework utility_wrapper : receive: 2 en
+
+2013-07-23 11:16:31		framework utility_wrapper : ok with result
+
+2013-07-23 11:16:31		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-23 11:16:36		framework utility_wrapper : receive: 2 false
+
+2013-07-23 11:16:36		framework utility_wrapper : ok with result
+
+2013-07-23 11:16:36		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-23 11:16:40		framework utility_wrapper : receive: 2 false
+
+2013-07-23 11:16:40		framework utility_wrapper : ok with result
+
+2013-07-23 11:16:40		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-23 11:16:40		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-23 11:16:40		framework utility_wrapper : ok with result
+
+2013-07-23 11:16:41		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-23 11:16:41		framework utility_wrapper : receive: 1 
+
+2013-07-23 11:16:41		framework utility_wrapper : ok without result
+
+2013-07-23 11:18:32		framework logging_wrapper : save log : adb logcat logcat -d  -v time > C:\Users\juliu\Desktop\QSST_allversion\135-autotest_v2.8\data\test_env\com.android.qrdtest\2013-07-23-11_16_25\test_suit_lte\test_suit_lte_case11\2013-07-23-11_18_32.logcat
+
+2013-07-23 11:18:32		framework TestCaseBase : Exception is :list assignment index out of range
+
+2013-07-23 11:18:32		framework TestCaseBase : Traceback :Traceback (most recent call last):
+  File "C:\Users\juliu\Desktop\QSST_allversion\135-autotest_v2.8\data\test_env\test_case_base.py", line 101, in test_case_run
+    success = self.test_case_main(case_results)
+  File "C:\Users\juliu\Desktop\QSST_allversion\135-autotest_v2.8\data\test_env\test_suit_lte\test_suit_lte_case11.py", line 29, in test_case_main
+    flag1[t] = False
+IndexError: list assignment index out of range
+
+
+2013-07-23 11:18:33		framework utility_wrapper : send: len=65&sp;action=10&sp;value=0&sp;value=0&sp;value=Unfortunately&sp;value=2
+
+2013-07-23 11:18:37		framework utility_wrapper : receive: 2 false
+
+2013-07-23 11:18:37		framework utility_wrapper : ok with result
+
+2013-07-23 11:18:37		framework utility_wrapper : send: len=68&sp;action=10&sp;value=0&sp;value=0&sp;value=isn't responding&sp;value=1
+
+2013-07-23 11:18:42		framework utility_wrapper : receive: 2 false
+
+2013-07-23 11:18:42		framework utility_wrapper : ok with result
+
+2013-07-23 11:18:42		framework utility_wrapper : send: len=9&sp;action=17
+
+2013-07-23 11:18:42		framework utility_wrapper : receive: 2 com.android.launcher2.Launcher
+
+2013-07-23 11:18:42		framework utility_wrapper : ok with result
+
+2013-07-23 11:18:43		framework utility_wrapper : send: len=30&sp;action=9&sp;value=3&sp;value=0
+
+2013-07-23 11:18:43		framework utility_wrapper : receive: 1 
+
+2013-07-23 11:18:43		framework utility_wrapper : ok without result
+
+2013-07-23 11:18:43		framework test_suit_lte_case11 : case end
+

@@ -1,0 +1,4 @@
+SUIT:test_suit_stabilitymodem
+STARTTIME:2013-07-25 14:04:59
+CASE:test_suit_stabilitymodem:test_suit_stabilitymodem_case8
+DESCRIPTION:1-ping 2-MT SMS Slot1 3-MT call Slot1

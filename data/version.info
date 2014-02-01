@@ -1,0 +1,38 @@
+Official Version:0.0.7(03/18/2013)
+Official Version:0.0.6(03/06/2013)
+Official Version:0.0.5(03/04/2013)
+Official Version:0.0.4(02/27/2013)
+Official Version:0.0.3(02/25/2013)
+    fix case bugs.
+    add 3rd party apks.
+Official Version:0.0.2(02/18/2013)
+    fix IME bugs.
+Official Version:0.0.1(02/04/2013)
+---------------------------------
+Revision:1.1.4(01/29/2013)
+    add anr/fc handle in launcher.
+Revision:1.1.3(01/24/2013)
+    add stop interface.fix bug.
+    apply ime,add sanan-cases.
+Revision:1.1.1(01/17/2013)
+    add all case.add IME.
+Revision:1.1.0(01/08/2013)
+    use accesssibility.
+    phone,mms,browser
+    fix bad pipe.
+Revision:1.0.5(12/24/2012)
+    update testMain.
+    update test phone, to 5 times, 3 success.
+Revision:1.0.4(12/21/2012)
+    add support multi-language in browser.
+Revision:1.0.3(12/19/2012)
+    add support multi-language in phone and mms.
+Revision:1.0.2(12/14/2012)
+feature:
+    add support settings in testMain
+    use setting phone numbers in mms test.
+Revision:1.0.1(12/10/2012)
+feature:
+     add support for webview
+     add support for Chinese
+     add browser test 

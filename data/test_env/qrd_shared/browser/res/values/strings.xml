@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Connection_problem">Connection problem</string>
+    <string name="data_title">Data Call</string>
+    <string name="dialog_ok_button">OK</string>
+    <string name="dialog_cancel_button">Cancel</string>
+    <string name="exit_browser">Exit Browser</string>
+    <string name="google_account_auto_connection">Automatic Google signin</string>
+    <string name="Loading">Loading</string>
+    <string name="menu_preferences">Settings</string>
+    <string name="multi_sim_settings_title">Dual SIM settings</string>
+    <string name="pref_privacy_security_title">Privacy</string>
+    <string name="pref_privacy_clear_cache">Clear cache</string>   
+    <string name="set_dds_success">Set data subscription success</string>
+    <string name="webpage_not_available">Webpage not available</string>
+    <string name="wifi_empty_list_wifi_off">To see available networks</string>
+</resources>

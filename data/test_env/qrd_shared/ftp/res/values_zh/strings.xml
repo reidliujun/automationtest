@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="100KB.zip">100KB.zip</string>
+    <string name="500KB.zip">500KB.zip</string>
+    <string name="1MB.zip">1MB.zip</string>
+    <string name="10MB.zip">10MB.zip</string>
+    <string name="add">Add</string>
+    <string name="browser">Device file browser</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="dlcompleted">Download completed</string>
+    <string name="dlfailed">failed</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading</string>
+    <string name="ip">219.143.10.194</string>
+    <string name="ok">Ok</string>
+    <string name="save">Save</string>    
+    <string name="transfer">transfer rate</string>
+    <string name="ulcompleted">Upload completed</string>
+    <string name="upload">Upload</string>
+</resources>

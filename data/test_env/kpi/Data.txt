@@ -1,0 +1,19 @@
+Reference Data
+
+#START:LAUNCH TIME
+Test:Camera
+#Launch Time:1000
+Test:Browser
+#Launch Time:809
+Test:Gallery
+#Launch Time:785
+#END:LAUNCH TIME
+
+#START:FPS
+Test:Camera
+#Fps:45
+Test:Browser
+#Fps:65
+Test:Gallery
+#Fps:57
+#END:FPS

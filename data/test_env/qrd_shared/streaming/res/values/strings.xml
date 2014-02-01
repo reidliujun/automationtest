@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="ok">确定</string>
+    <string name="continue">Continue</string>
+    <string name="network_unstable">The network is not stable</string>
+    <string name="keep_going">继续播放</string>
+    <string name="retry">Try again</string>
+    <string name="jinriredian">今日热点</string>
+    <string name="quit">want to quit Youku</string>
+    <string name="exit">Exit</string>
+    <string name="youku">Youku</string>
+    <string name="xingguangxiadetonghua">星光下的童话</string>
+    <string name="xuanji">选集</string>
+    <string name="chuhanchuanqi">楚汉传奇</string>
+    <string name="quanbu">全部</string>
+</resources>
